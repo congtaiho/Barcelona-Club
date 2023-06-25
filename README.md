@@ -1,5 +1,5 @@
 # Barcelona-Club
-Player management software written in C language. This is a player management application of the club barcelona, ​​with functions (add, search, modify, display the number of goals scored).
+Player management software written in C++ language. This is a player management application of the club barcelona, ​​with functions (add, search, modify, display the number of goals scored).
 ### Introduction
 
 program with a simple menu, the user selects the numbers from 1-9 to choose to use the program's functions: Like adding new players, modifying information, displaying the number of goals... Below Here are some pictures.
